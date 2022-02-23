@@ -1,2 +1,2 @@
 # platservices-client
-![](https://img.shields.io/github/package-json/v/PS-XYZ-Developement/platservices-client?style=for-the-badge)
+![](https://img.shields.io/github/package-json/v/PS-XYZ-Developement/platservices-client?style=for-the-badge) ![](https://img.shields.io/discord/898907342832279612?label=discord&style=for-the-badge)
