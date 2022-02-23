@@ -26,7 +26,7 @@
   },
   "author": "platservices",
   "license": "MIT",
-  "description": "Easily create a new Discord bot client.",
+  "description": "platservices-client is a lightweight npm module that provides a simple use of the Discord API!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PS-XYZ-Developement/platservices-client.git"
