@@ -1,15 +1,4 @@
 {
-  "dependencies": {
-    "chalk": "^5.0.0",
-    "discord.js": "^13.6.0",
-    "lodash": "^4.17.21",
-    "moment": "^2.29.1"
-  },
-  "devDependencies": {
-    "console-error": "^0.0.4",
-    "console-info": "^0.0.5",
-    "console-warn": "^0.0.4"
-  },
   "name": "platservices-client",
   "version": "1.0.0",
   "main": "src/main.js",
@@ -24,7 +13,26 @@
     "discord-easy-bot",
     "djs"
   ],
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "discord.js": "^13.6.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "console-error": "^0.0.4",
+    "console-info": "^0.0.5",
+    "console-warn": "^0.0.4"
+  },
   "author": "platservices",
   "license": "MIT",
-  "description": "Easily create a new Discord bot client."
+  "description": "Easily create a new Discord bot client.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PS-XYZ-Developement/platservices-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PS-XYZ-Developement/platservices-client/issues"
+  },
+  "homepage": "https://github.com/PS-XYZ-Developement/platservices-client#readme"
 }
